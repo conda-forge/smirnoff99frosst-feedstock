@@ -16,7 +16,7 @@ build:
 
 requirements:
   host:
-    - python=3.9 # Lazy workaround for not replacing SafeConfigParser with ConfigParser in source
+    - python =3.9 # Lazy workaround for not replacing SafeConfigParser with ConfigParser in source
     - pip
     - setuptools
   run:
